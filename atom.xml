@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://bro7.top</id>
-    <title>挚友七哥的小站</title>
-    <updated>2020-10-05T19:06:55.270Z</updated>
+    <title>挚友七哥的小窝</title>
+    <updated>2020-10-06T17:50:14.447Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://bro7.top"/>
     <link rel="self" href="https://bro7.top/atom.xml"/>
-    <subtitle>温故而知新</subtitle>
+    <subtitle>念念不忘 必有回响</subtitle>
     <logo>https://bro7.top/images/avatar.png</logo>
     <icon>https://bro7.top/favicon.ico</icon>
-    <rights>All rights reserved 2020, 挚友七哥的小站</rights>
+    <rights>All rights reserved 2020, 挚友七哥的小窝</rights>
     <entry>
         <title type="html"><![CDATA[test]]></title>
         <id>https://bro7.top/post/test/</id>
