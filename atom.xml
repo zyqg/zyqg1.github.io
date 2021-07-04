@@ -2,14 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://bro7.top</id>
     <title>挚友七哥的小窝</title>
-    <updated>2020-10-06T18:14:34.781Z</updated>
+    <updated>2021-07-04T12:19:05.399Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://bro7.top"/>
     <link rel="self" href="https://bro7.top/atom.xml"/>
     <subtitle>念念不忘 必有回响</subtitle>
     <logo>https://bro7.top/images/avatar.png</logo>
     <icon>https://bro7.top/favicon.ico</icon>
-    <rights>All rights reserved 2020, 挚友七哥的小窝</rights>
+    <rights>All rights reserved 2021, 挚友七哥的小窝</rights>
+    <entry>
+        <title type="html"><![CDATA[sb张继通jbtz]]></title>
+        <id>https://bro7.top/post/sb-zhang-ji-tong-jbtz/</id>
+        <link href="https://bro7.top/post/sb-zhang-ji-tong-jbtz/">
+        </link>
+        <updated>2021-07-04T12:18:06.000Z</updated>
+        <content type="html"><![CDATA[<p>如题</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[test]]></title>
         <id>https://bro7.top/post/test/</id>
